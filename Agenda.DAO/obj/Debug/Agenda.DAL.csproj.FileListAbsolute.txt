@@ -1,0 +1,16 @@
+C:\Users\MacGyver\Desktop\Agenda\Agenda.DAO\bin\Debug\Agenda.DAO.dll.config
+C:\Users\MacGyver\Desktop\Agenda\Agenda.DAO\bin\Debug\Agenda.DAO.dll
+C:\Users\MacGyver\Desktop\Agenda\Agenda.DAO\bin\Debug\Agenda.DAO.pdb
+C:\Users\MacGyver\Desktop\Agenda\Agenda.DAO\bin\Debug\Agenda.DTO.dll
+C:\Users\MacGyver\Desktop\Agenda\Agenda.DAO\bin\Debug\Agenda.DTO.pdb
+C:\Users\MacGyver\Desktop\Agenda\Agenda.DAO\obj\Debug\Agenda.DAL.csprojResolveAssemblyReference.cache
+C:\Users\MacGyver\Desktop\Agenda\Agenda.DAO\obj\Debug\Agenda.DAO.dll
+C:\Users\MacGyver\Desktop\Agenda\Agenda.DAO\obj\Debug\Agenda.DAO.pdb
+C:\Users\Aluno\Desktop\Trab\Agenda.DAO\bin\Debug\Agenda.DAO.dll.config
+C:\Users\Aluno\Desktop\Trab\Agenda.DAO\bin\Debug\Agenda.DAO.dll
+C:\Users\Aluno\Desktop\Trab\Agenda.DAO\bin\Debug\Agenda.DAO.pdb
+C:\Users\Aluno\Desktop\Trab\Agenda.DAO\bin\Debug\Agenda.DTO.dll
+C:\Users\Aluno\Desktop\Trab\Agenda.DAO\bin\Debug\Agenda.DTO.pdb
+C:\Users\Aluno\Desktop\Trab\Agenda.DAO\obj\Debug\Agenda.DAL.csprojResolveAssemblyReference.cache
+C:\Users\Aluno\Desktop\Trab\Agenda.DAO\obj\Debug\Agenda.DAO.dll
+C:\Users\Aluno\Desktop\Trab\Agenda.DAO\obj\Debug\Agenda.DAO.pdb
